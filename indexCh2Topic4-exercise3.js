@@ -81,6 +81,7 @@ console.log();
 laptop2.run();
 console.log();
 laptop3.run();
-console.log();
 
 // let laptop4 = new Laptop("sony", "sonyType");
+let laptop5 = new LaptopHybrid("sony", "hybridType2");
+laptop5.run();
