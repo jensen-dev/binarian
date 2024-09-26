@@ -81,5 +81,6 @@ console.log();
 laptop2.run();
 console.log();
 laptop3.run();
+console.log();
 
 // let laptop4 = new Laptop("sony", "sonyType");
