@@ -86,3 +86,4 @@ laptop3.run();
 let laptop5 = new LaptopHybrid("sony", "hybridType2");
 laptop5.run();
 laptop5.gaming();
+laptop5.editing();
