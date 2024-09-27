@@ -88,3 +88,4 @@ laptop5.run();
 laptop5.gaming();
 laptop5.editing();
 laptop5.run();
+laptop5.run();
